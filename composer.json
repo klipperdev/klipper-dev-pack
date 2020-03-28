@@ -1,7 +1,7 @@
 {
     "name": "klipper/klipper-dev-pack",
     "type": "symfony-pack",
-    "description": "The Dev Tools Pack for Klipper",
+    "description": "Dev Tools Pack for Klipper",
     "license": "MIT",
     "authors": [
         {
