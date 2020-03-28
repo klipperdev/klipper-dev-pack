@@ -1,0 +1,33 @@
+{
+    "name": "klipper/klipper-dev-pack",
+    "type": "symfony-pack",
+    "description": "The Dev Tools Pack for Klipper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "François Pluchino",
+            "email": "francois.pluchino@klipper.dev"
+        }
+    ],
+    "require": {
+        "klipper/maker-bundle": "^2.0.0",
+        "klipper/functional-test-bundle": "^2.0.0",
+        "doctrine/doctrine-fixtures-bundle": "^3.0.0",
+        "sensiolabs/security-checker": "^5.0.0",
+        "symfony/browser-kit": "^4.2.0",
+        "symfony/debug-bundle": "^4.2.0",
+        "symfony/dotenv": "^4.2.0",
+        "symfony/phpunit-bridge": "^4.2.0",
+        "symfony/stopwatch": "^4.2.0",
+        "symfony/web-link": "^4.2.0",
+        "symfony/web-profiler-bundle": "^4.2.0",
+        "symfony/web-server-bundle": "^4.2.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.0-dev"
+        }
+    }
+}
