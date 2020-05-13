@@ -12,6 +12,7 @@
     "require": {
         "klipper/functional-test-bundle": "^2.0.0",
         "klipper/maker-bundle": "^2.0.0",
+        "klipper/recipes": "^2.0.0",
         "symfony/debug-pack": "^1.0.0",
         "symfony/process": "^4.4.0",
         "symfony/test-pack": "^1.0.0"
